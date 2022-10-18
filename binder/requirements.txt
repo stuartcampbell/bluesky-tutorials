@@ -25,7 +25,7 @@ suitcase-jsonl
 suitcase-msgpack
 suitcase-tiff
 supervisor
-tensorboard==2.2.1
-tensorflow==2.2.0
+tensorboard
+tensorflow==2.7.2
 tensorforce==0.5.5
 toolz==0.10.0
